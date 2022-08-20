@@ -69,7 +69,6 @@ Couldn't find equivalent for the first question. The second question below encom
 - [ ] https://leetcode.com/problems/reverse-linked-list/
 - [ ] https://leetcode.com/problems/reverse-linked-list-ii/
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
-- [ ] Next question is the same, but alternate each subgroup
 - [ ] https://leetcode.com/problems/rotate-list/
 
 ## Tree Breadth First Search
@@ -96,7 +95,7 @@ Couldn't find equivalent for the first question. The second question below encom
 
 ## Two Heaps
 
-- [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
+- [ ] https://leetcode.com/problems/find-median-from-data-stream/
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/ipo/
 - [ ] https://leetcode.com/problems/find-right-interval/
@@ -119,7 +118,7 @@ Couldn't find equivalent for the first question. The second question below encom
 - [ ] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 - [ ] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 - [ ] https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
-- [ ] https://leetcode.com/problems/find-k-closest-elements/ (with K == 1)
+- [ ] https://leetcode.com/problems/find-k-closest-elements/
 - [ ] https://leetcode.com/problems/peak-index-in-a-mountain-array/
 - [ ] https://leetcode.com/problems/find-in-mountain-array/
 - [ ] https://leetcode.com/problems/search-in-rotated-sorted-array/
@@ -140,8 +139,8 @@ Couldn't find equivalent for the first question. The second question below encom
 - [ ] https://leetcode.com/problems/sort-characters-by-frequency/
 - [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream/
 - [ ] https://leetcode.com/problems/find-k-closest-elements/
-- [ ] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/ closest leetcode or https://www.geeksforgeeks.org/maximum-distinct-elements-removing-k-elements/ for exact
-- [ ] https://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/ no leetcode equivalent found
+- [ ] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+- [ ] https://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/
 - [ ] https://leetcode.com/problems/reorganize-string/
 - [ ] https://leetcode.com/problems/rearrange-string-k-distance-apart/
 - [ ] https://leetcode.com/problems/task-scheduler/
@@ -157,15 +156,16 @@ Couldn't find equivalent for the first question. The second question below encom
 
 ## 0/1 Knapsack (Dynamic Programming)
 
-- [ ] https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60
 - [ ] https://leetcode.com/problems/partition-equal-subset-sum/
-- [ ] https://leetcode.com/problems/subarray-sum-equals-k/ (Similar) or https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR
+- [ ] https://leetcode.com/problems/subarray-sum-equals-k/
 - [ ] https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
-- [ ] https://leetcode.com/problems/combination-sum-ii/ or https://leetcode.com/problems/combination-sum-iv/
+- [ ] https://leetcode.com/problems/combination-sum-ii/
+- [ ] https://leetcode.com/problems/combination-sum-iv/
 - [ ] https://leetcode.com/problems/target-sum/
 - [ ] https://leetcode.com/problems/ones-and-zeroes/
 
 ## Topological Sort
+
 - [ ] https://leetcode.com/problems/course-schedule/
 - [ ] https://leetcode.com/problems/course-schedule-ii/
 - [ ] https://leetcode.com/problems/alien-dictionary/
